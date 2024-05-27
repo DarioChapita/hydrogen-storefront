@@ -36,7 +36,6 @@
     "esbuild": "^0.21.4",
     "eslint": "^8.20.0",
     "eslint-plugin-hydrogen": "0.12.2",
-    "prettier": "^2.8.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.2.2"
   },
